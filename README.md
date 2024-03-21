@@ -16,7 +16,7 @@
 ![alysson912 GitHub stats](https://github-readme-stats.vercel.app/api?username=alysson912&show_icons=true&theme=radical)
 
 ## Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson912&layout=pie)](https://github.com/alysson912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson912&layout=pie&theme=dracula)](https://github.com/alysson912/github-readme-stats)
 
 
 
