@@ -15,6 +15,11 @@
 
 ![alysson912 GitHub stats](https://github-readme-stats.vercel.app/api?username=alysson912&show_icons=true&theme=radical)
 
+## Most Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson912&layout=pie)](https://github.com/alysson912/github-readme-stats)
+
+
+
 ## Game preferences
 
 [![Games](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
