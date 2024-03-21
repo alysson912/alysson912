@@ -12,8 +12,12 @@
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
 [![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+
+![alysson912 GitHub stats](https://github-readme-stats.vercel.app/api?username=alysson912&show_icons=true&theme=radical)
+
 ## Game preferences
 
 [![Games](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
 
-[![Linkedin]()]()
+
+
