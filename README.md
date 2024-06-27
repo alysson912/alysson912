@@ -13,7 +13,6 @@
 [![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-/* ![alysson912 GitHub stats](https://github-readme-stats.vercel.app/api?username=alysson912&show_icons=true&theme=radical) */
 
 ## Most Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson912&layout=pie&theme=dracula)](https://github.com/alysson912/github-readme-stats)
